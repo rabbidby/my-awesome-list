@@ -81,3 +81,27 @@
 * [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 * [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 * [pingtop](https://github.com/laixintao/pingtop) - Ping multiple servers and show the result in a top like terminal UI.
+* [bash.py](https://github.com/kennethreitz/bash.py) - An inline Bash script runner, for Python.
+* [cheat.sh](https://github.com/chubin/cheat.sh) - Unified access to the best community driven cheat sheets repositories of the world.
+* [komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector.
+* [kubeadm issue](https://github.com/kubernetes/kubeadm/issues/581) - kubeadm - how to renew the certificate when apiserver cert expired?
+* [ui-libraries](https://github.com/jefflombard/ui-libraries) - A collection of UI Frameworks and their platform implementations
+* [purposefile](https://github.com/jamiebuilds/purposefile) - Make sure every file in your repo is exactly where it should be.
+* [modDetective](https://github.com/itsKindred/modDetective) - modDetective is a small Python tool that chronologizes files based on modification time in order to investigate recent system activity.
+* [HouseOps](https://github.com/HouseOps/HouseOps) - A simple ClickHouse client.
+* [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+* [vector](https://github.com/Netflix/vector) - Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.
+* [react-material-dashboard](https://github.com/devias-io/react-material-dashboard) - React Dashboard made with Material UI’s components, React and of course create-react-app to boost your app development process!
+* [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+* [awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
+* [udica](https://github.com/containers/udica) - This repository contains a tool for generating SELinux security profiles for containers
+* [lxhToolHTTPDecrypt](https://github.com/lyxhh/lxhToolHTTPDecrypt) - HTTPDecrypt
+* [learn-devops](https://github.com/dwyl/learn-devops) - Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+* [dbcli](https://github.com/dbcli) - Better CLIs for Databases
+* [py-mongo-sync](https://github.com/caosiyang/py-mongo-sync) - Oplog-based sync tool for MongoDB. It's used to sync data from a replica set to another standalone/replica set/sharded cluster.
+* [self-driving-desktop](https://github.com/hofstadter-io/self-driving-desktop) - Desktop Automation Framework. Drive your mouse and keyboard with text files.
+* [pysot](https://github.com/STVIR/pysot) - SenseTime's research platform for single object tracking research, implementing algorithms like SiamRPN and SiamMask.
+* [domain-check-2](https://github.com/click0/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft 
+* [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+* [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
+* [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
