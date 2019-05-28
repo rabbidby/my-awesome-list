@@ -105,3 +105,10 @@
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 * [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 * [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+* [s3-inspector](https://github.com/kromtech/s3-inspector) - Tool to check AWS S3 bucket permissions
+* [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
+* [weird-fonts](https://github.com/beizhedenglong/weird-fonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
+* [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
+* [RHCSA](https://github.com/iahmad-khan/RHCSA) - RHCSA labs and exercises
+* [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+* 
