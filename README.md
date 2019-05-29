@@ -111,4 +111,4 @@
 * [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
 * [RHCSA](https://github.com/iahmad-khan/RHCSA) - RHCSA labs and exercises
 * [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-* 
+* [fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
