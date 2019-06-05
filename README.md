@@ -112,3 +112,9 @@
 * [RHCSA](https://github.com/iahmad-khan/RHCSA) - RHCSA labs and exercises
 * [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 * [fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
+* [k8s-prometheus-adapter](https://github.com/DirectXMan12/k8s-prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus
+* [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
+* [Decryption-Tools](https://github.com/jiansiting/Decryption-Tools) - RansomWare Decryption Tools
+* [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
+* [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+* [dnsfs](https://github.com/benjojo/dnsfs) - Store your data in others DNS revolvers cache
