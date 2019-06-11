@@ -118,3 +118,7 @@
 * [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 * [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 * [dnsfs](https://github.com/benjojo/dnsfs) - Store your data in others DNS revolvers cache
+* [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+* [simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
+* [duration](https://github.com/mstruebing/duration) - Shows how long a process is already running
+* [PassBolt](https://github.com/passbolt) - The password manager for team
