@@ -122,3 +122,6 @@
 * [simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
 * [duration](https://github.com/mstruebing/duration) - Shows how long a process is already running
 * [PassBolt](https://github.com/passbolt) - The password manager for team
+* [NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
+* [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
+* [devOps-patch](https://github.com/g0x7f/devOps-patch) - A Patch for Dev-Ops community
