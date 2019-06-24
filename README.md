@@ -125,3 +125,7 @@
 * [NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
 * [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
 * [devOps-patch](https://github.com/g0x7f/devOps-patch) - A Patch for Dev-Ops community
+* [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+* [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
+* [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
+* [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion 
