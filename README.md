@@ -131,4 +131,5 @@
 * [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion 
 * [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 * [oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
+* [earlyoom](https://github.com/rfjakob/earlyoom) - Early OOM Daemon for Linux
 
