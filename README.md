@@ -132,4 +132,7 @@
 * [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 * [oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
 * [earlyoom](https://github.com/rfjakob/earlyoom) - Early OOM Daemon for Linux
+* [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
+* [red](https://github.com/antonmedv/red) - Terminal log analysis tools
+* [jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
 
