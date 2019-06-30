@@ -129,3 +129,6 @@
 * [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 * [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 * [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion 
+* [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+* [oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
+
