@@ -140,3 +140,36 @@
 * [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 * [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 * [sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM
+* [kube-forwarder]https://github.com/pixel-point/kube-forwarder() - Easy to use Kubernetes port forwarding manager
+* [request3](https://github.com/kennethreitz/requests3) - Requests 3.0, for Humans and Machines, alike
+* [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks
+* [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
+* [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+* [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting
+* [nginxconfig.io](https://github.com/0xB4LINT/nginxconfig.io) - NGiИX config generator on steroids
+* [awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
+* [komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
+* [ansible-pip](https://github.com/azavea/ansible-pip) - An Ansible role for installing pip
+* [test-playbooks](https://github.com/ansible/test-playbooks) - playbook-tests
+* [ansible-users](https://github.com/singleplatform-eng/ansible-users) - Ansible user creation role
+* [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together
+* [ansible-playbooks](https://github.com/snowplow/ansible-playbooks) - Ansible playbooks to install common platforms and tools (e.g. JVM, Ruby, Postgres etc.)
+* [ansible-resolv](https://github.com/ahuffman/ansible-resolv) - Ansible role to configure /etc/resolv.conf
+* [ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
+* [ansible-review](https://github.com/willthames/ansible-review) - ansible-review will review inventory files, role files, python code (modules, plugins) and playbooks
+* [kubectl](https://github.com/kubernetes/kubectl) - Kubectl is a command line interface for running commands against Kubernetes clusters
+* [choo](https://github.com/choojs/choo) - Sturdy 4kb frontend framework
+* [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches
+* [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack 
+* [hicat](https://github.com/rstacruz/hicat) - Command-line syntax highlighter
+* [tui.editor](https://github.com/nhn/tui.editor) - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible
+* [joe](https://github.com/karan/joe) - A .gitignore magician in your command line
+* [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers
+* [SuzenEscape](https://github.com/bykvaadm/SuzenEscape) - Игровая платформа SuzenEscape. Призвана для обучения в нестандартной форме командам Linux
+* [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
+* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources
+* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources
+* [docker-gc](https://github.com/spotify/docker-gc) - *INACTIVE*: Docker garbage collection of containers and images
+* [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
+* [hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file
+* [uncaptcha2](https://github.com/ecthros/uncaptcha2) - Defeating the latest version of ReCaptcha with 91% accuracy
