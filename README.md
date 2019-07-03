@@ -139,3 +139,4 @@
 * [cachet](https://github.com/CachetHQ/Cachet) -  An open source status page system for everyone
 * [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 * [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
+* [sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM
