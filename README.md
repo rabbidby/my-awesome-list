@@ -173,3 +173,4 @@
 * [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 * [hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file
 * [uncaptcha2](https://github.com/ecthros/uncaptcha2) - Defeating the latest version of ReCaptcha with 91% accuracy
+* [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
