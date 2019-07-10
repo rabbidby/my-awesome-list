@@ -174,3 +174,4 @@
 * [hostess](https://github.com/cbednarski/hostess) - An idempotent command-line utility for managing your /etc/hosts file
 * [uncaptcha2](https://github.com/ecthros/uncaptcha2) - Defeating the latest version of ReCaptcha with 91% accuracy
 * [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+* [pipx](https://github.com/pipxproject/pipx) - Execute binaries from Python packages in isolated environments
