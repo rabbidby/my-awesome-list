@@ -175,3 +175,29 @@
 * [uncaptcha2](https://github.com/ecthros/uncaptcha2) - Defeating the latest version of ReCaptcha with 91% accuracy
 * [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 * [pipx](https://github.com/pipxproject/pipx) - Execute binaries from Python packages in isolated environments
+* [arch-hardening-script](https://gitlab.com/madaidan/arch-hardening-script) - A script that hardens Arch Linux a lot
+* [revssl](https://github.com/TheSecondSun/Revssl) - A simple script that automates generation of OpenSSL reverse shells
+* [kubernete.sh](https://github.com/brotandgames/kubernete.sh) - Deploy "throw-away" Kubernetes Cluster(s) using a small Bash CLI
+* [webssh](https://github.com/huashengdun/webssh) - Web based ssh client
+* [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN
+* [Grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
+* [Nginx-builder](https://github.com/TinkoffCreditSystems/Nginx-builder) - A tool to build deb or rpm package of required Nginx version from the source code, with the ability to connect third-party modules. Nginx parameters are set in the yaml configuration file
+* [ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
+* [sysadmin-interview-questions](https://github.com/l13t/sysadmin-interview-questions) - A collection of Sysadmin Interview/Exam Questions and Answers (2018 Edition)
+* [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
+* [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
+* [gh-card](https://github.com/nwtgck/gh-card) - GitHub Repository Card for Every Web Site
+* [assh](https://github.com/moul/assh) - make your ssh client smarter
+* [ssh-tools](https://github.com/vaporup/ssh-tools) - Bunch of ssh tools
+* [ssh-config](https://github.com/dbrady/ssh-config) - A Tool to help manage your .ssh/config file
+* [lookyloo](https://github.com/CIRCL/lookyloo) - Lookyloo is a web interface allowing to scrape a website and then displays a tree of domains calling each other
+* [nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
+* [ebooks](https://github.com/rongfengliang/ebooks) - some ebooks
+* [ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
+* [the-algorithms-python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+* [monday](https://github.com/eko/monday) - A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
+* [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
+* [ansible-workshops](https://github.com/ansible/workshops) - Training Course for Ansible Automation
+* [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL
+* [percona-xtradb-cluster-operator](https://github.com/percona/percona-xtradb-cluster-operator) - A Kubernetes Operator for Percona XtraDB Cluster
+* [lama](https://github.com/32leaves/lama) - Run "curl -L lama.sh | sh" to start a web server
