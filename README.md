@@ -201,3 +201,6 @@
 * [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL
 * [percona-xtradb-cluster-operator](https://github.com/percona/percona-xtradb-cluster-operator) - A Kubernetes Operator for Percona XtraDB Cluster
 * [lama](https://github.com/32leaves/lama) - Run "curl -L lama.sh | sh" to start a web server
+* [kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
+* [docker-registry-pruner](https://github.com/tumblr/docker-registry-pruner) - Tool to apply retention logic to docker images in a Docker Registry
+* [docker-distribution-pruner](https://gitlab.com/gitlab-org/docker-distribution-pruner) - Simple Go-lang docker-distribution based application to clean all old revisions from Docker Distribution based registry (also GitLab Container Registry)
