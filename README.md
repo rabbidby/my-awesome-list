@@ -204,3 +204,11 @@
 * [kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 * [docker-registry-pruner](https://github.com/tumblr/docker-registry-pruner) - Tool to apply retention logic to docker images in a Docker Registry
 * [docker-distribution-pruner](https://gitlab.com/gitlab-org/docker-distribution-pruner) - Simple Go-lang docker-distribution based application to clean all old revisions from Docker Distribution based registry (also GitLab Container Registry)
+* [kubedog](https://github.com/flant/kubedog) - Kubedog is a library and cli utility that allows watching and following kubernetes resources in CI/CD deploy pipelines
+* [pg_insights](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health
+* [goop](https://github.com/s0md3v/goop) - Google Search Scraper
+* [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
+* [sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file
+* [Kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI
+* [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python
+* [trivy](https://github.com/knqyf263/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
