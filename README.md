@@ -140,7 +140,7 @@
 * [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 * [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 * [sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM
-* [kube-forwarder]https://github.com/pixel-point/kube-forwarder() - Easy to use Kubernetes port forwarding manager
+* [kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager
 * [request3](https://github.com/kennethreitz/requests3) - Requests 3.0, for Humans and Machines, alike
 * [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks
 * [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
