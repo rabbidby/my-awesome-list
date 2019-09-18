@@ -212,3 +212,42 @@
 * [Kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI
 * [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python
 * [trivy](https://github.com/knqyf263/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+* [inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for developers of Kubernetes applications
+* [grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+* [smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
+* [sandglass](https://github.com/sandglass/sandglass) - Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue
+* [OnlineSchemaChange](https://github.com/facebookincubator/OnlineSchemaChange) - A tool for performing online schema changes on MySQL
+* [awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools) - A curated list of awesome dataset tools
+* [daytona](https://github.com/cruise-automation/daytona) - A vault client, but for servers and containers
+* [awesome-sites](https://github.com/Gherciu/awesome-sites) - A list of useful and awesome sites
+* [sqldef](https://github.com/k0kubun/sqldef) - Idempotent MySQL/PostgreSQL schema management by SQL
+* [mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
+* [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+* [detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code
+* [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks
+* [moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable!
+* [mesapy](https://github.com/mesalock-linux/mesapy) - A Fast and Safe Python based on PyPy
+* [grapheneX](https://github.com/grapheneX/grapheneX) - Automated System Hardening Framework
+* [k8s-security](https://github.com/kabachook/k8s-security) - Kubernetes security notes and best practices
+* [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things
+* [logq](https://github.com/MnO2/logq) - Analyzing log files in SQL with command-line toolkit, implemented in Rust
+* [s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+* [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics
+* [awesome-devsecops_ru](https://github.com/devops-ru/awesome-devsecops_ru) - Подборка выступлений и публикаций на тему DevSecOps на русском и не только
+* [kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - A Gentle introduction to Kubernetes with more than just the basics. star2 Give it a star if you like it
+* [postwoman](https://github.com/liyasthomas/postwoman) - API request builder - Helps you create your requests faster, saving you precious time on your development
+* [process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
+* [portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation
+* [gcping](https://github.com/GoogleCloudPlatform/gcping) - Like gcping.com but a command line tool
+* [awsping](https://github.com/ekalinin/awsping) - Console tool to check the latency to each Amazon EC2 region
+* [opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
+* [buffalo](https://github.com/kakao/buffalo) - A fast and scalable production-ready open source project for recommender systems
+* [kourier](https://github.com/kourier-io/kourier) - Kubernetes-based automation manager framework
+* [wperf](https://github.com/jhuckaby/wperf) - A simple HTTP load testing utility with detailed performance metrics
+* [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
+* [yamldiff](https://github.com/sahilm/yamldiff) - A CLI tool to diff two YAML files
+* [shhgit](https://github.com/eth0izzle/shhgit) - Find GitHub secrets in real time
+* [kubegraf](https://github.com/devopsprodigy/kubegraf) - Grafana-plugin for k8s' monitoring
+* [developer-portfolios](https://github.com/emmawedekind/developer-portfolios) - A list of developer portfolios for your inspiration
+* [redial](https://github.com/taypo/redial) - SSH Session Manager
+* [bake](https://github.com/kennethreitz/bake) - The strangely familiar task runner
