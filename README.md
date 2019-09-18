@@ -251,3 +251,5 @@
 * [developer-portfolios](https://github.com/emmawedekind/developer-portfolios) - A list of developer portfolios for your inspiration
 * [redial](https://github.com/taypo/redial) - SSH Session Manager
 * [bake](https://github.com/kennethreitz/bake) - The strangely familiar task runner
+* [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to
+* [rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library
