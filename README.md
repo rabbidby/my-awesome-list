@@ -253,7 +253,7 @@
 * [bake](https://github.com/kennethreitz/bake) - The strangely familiar task runner
 * [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to
 * [rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library
-* [keeweb](https://github.com/keeweb/keeweb - Free cross-platform password manager compatible with KeePass
+* [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 * [kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive
 * [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
 * [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor
