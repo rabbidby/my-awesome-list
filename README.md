@@ -261,3 +261,7 @@
 * [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
 * [lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling
 * [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
+* [awesome-log-analysis](https://github.com/logpai/awesome-log-analysis) - A list of awesome research on log analysis, anomaly detection, fault localization, and AIOps
+* [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes
+* [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - A collection of pure POSIX sh alternatives to external processes
+* [tmux](https://github.com/tmux/tmux) - Tmux is a very powerful terminal multiplexer which is extremely useful especially when you are using the remote server via SSH
