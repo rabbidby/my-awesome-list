@@ -265,3 +265,35 @@
 * [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes
 * [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - A collection of pure POSIX sh alternatives to external processes
 * [tmux](https://github.com/tmux/tmux) - Tmux is a very powerful terminal multiplexer which is extremely useful especially when you are using the remote server via SSH
+* [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - A curated list of awesome git hooks
+* [MyPyBuilder](https://github.com/TristenHarr/MyPyBuilder) - MyPyBuilder is a Drag-and-Drop GUI builder that wraps the tkinter library
+* [elastdocker](https://github.com/sherifabdlnaby/elastdocker) - Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics Exporters
+* [expressjs-k8s](https://github.com/alexellis/expressjs-k8s) - Express.js microservice with a Dockerfile, Kubernetes YAMLs and a non-root user
+* [s3audit](https://github.com/scalefactory/s3audit) - CLI tool for auditing S3 buckets
+* [vector](https://github.com/timberio/vector) - A High-Performance, Logs, Metrics, & Events Router
+* [jake-quits](https://github.com/jakealbaugh/jake-quits) - A static site that is a nice big beautiful time keeper for your sobriety
+* [full_request_logger](https://github.com/basecamp/full_request_logger) - Make full request logs accessible via web UI
+* [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
+* [certok](https://github.com/genuinetools/certok) - Command line tool to check the validity and expiration dates of SSL certificates
+* [ssl-expiry-check](https://github.com/LucasRoesler/ssl-expiry-check) - Simple script to validation ssl certificate expiration dates
+* [wks-quickstart-firekube](https://github.com/weaveworks/wks-quickstart-firekube) - Example configuration to create Kubernetes clusters powered by ignite and gitops
+* [conman](https://github.com/iximiuz/conman) - Simplistic container manager
+* [storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure
+* [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS
+* [clusterlint](https://github.com/digitalocean/clusterlint) - A best practices checker for Kubernetes clusters
+* [python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use
+* [http-prompt](https://github.com/eliangcs/http-prompt/) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+* [curlconverter](https://github.com/NickCarneiro/curlconverter/) - convert curl commands to python, javascript, php, R, Go, Rust, Dart, JSON, Ansible
+* [httpdirfs](https://github.com/fangfufu/httpdirfs/) - A filesystem which allows you to mount HTTP directory listings, with a permanent cache. Now with Airsonic / Subsonic support!
+* [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
+* [jo](https://github.com/jpmens/jo) - JSON output from a shell
+* [gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller for Kubernetes
+* [k-rail](https://github.com/cruise-automation/k-rail) - workload policy enforcement for Kubernetes
+* [kube-start-stop](https://github.com/LiliC/kube-start-stop) - Schedule Scaling of Kubernetes Resources
+* [Doppler](https://github.com/EnKrypt/Doppler/) - A zero configuration remote monitoring tool designed to be better than nothing
+* [nginx-http-rdns](https://github.com/flant/nginx-http-rdns) - Nginx HTTP rDNS module
+* [chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster
+* [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+* [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
+* [sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
+* [downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome progressbar
