@@ -293,21 +293,21 @@
 * [Doppler](https://github.com/EnKrypt/Doppler/) - A zero configuration remote monitoring tool designed to be better than nothing
 * [nginx-http-rdns](https://github.com/flant/nginx-http-rdns) - Nginx HTTP rDNS module
 * [chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster
-* [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-* [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
-* [sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
-* [downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome progressbar
+* [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!  
+* [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers  
+* [sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database  
+* [downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome progressbar  
 * [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.  
 * [fsorter](https://github.com/MikeWent/fsorter) - Group files to folders by extension. Sort your "Downloads" folder  
 * [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet  
-* [gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela) - Welcome to Novela, the simplest way to start publishing with Gatsby.  
+* [gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela) - Welcome to Novela, the simplest way to start publishing with Gatsby  
 * [moving](https://github.com/huangyz0918/moving) - A clean and minimalist theme for Jekyll  
 * [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources  
-* [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.  
+* [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security  
 * [awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore  
-* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.  
+* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers  
 * [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell  
-* [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.  
+* [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework  
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline  
-* [hstr](https://github.com/dvorka/hstr) - Bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.  
+* [hstr](https://github.com/dvorka/hstr) - Bash and zsh shell history suggest box - easily view, navigate, search and manage your command history  
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh  
