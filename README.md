@@ -311,3 +311,92 @@
 * [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline  
 * [hstr](https://github.com/dvorka/hstr) - Bash and zsh shell history suggest box - easily view, navigate, search and manage your command history  
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh  
+* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.  
+* [clusterman](https://github.com/Yelp/clusterman) - Cluster Autoscaler for Kubernetes and Mesos  
+* [faster-utf8-validator](https://github.com/zwegner/faster-utf8-validator) - A very fast library for validating UTF-8 using AVX2/SSE4 instructions  
+* [rsh](https://github.com/mzfr/rsh) - generate reverse shell from CLI for linux and Windows.  
+* [rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.  
+* [DockerPwn.py](https://github.com/AbsoZed/DockerPwn.py) - Python automation of Docker.sock abuse  
+* [vesper](https://github.com/chris-rock/vesper) - 🍸Vesper - HTTP Framework for Bash Shell  
+* [awesome-kubernetes-notes](https://github.com/overnote/awesome-kubernetes-notes) - awesome-kubernetes-notes 🎉  
+* [guider](https://github.com/iipeace/guider) - Runtime performance analyzer  
+* [Crypto-Notepad](https://github.com/Crypto-Notepad/Crypto-Notepad) - 🔑 Simple notepad for Windows with encryption features  
+* [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.  
+* [finala](https://github.com/similarweb/finala) - A resource cloud scanner that analyzes and reports wasteful and unused resources to cut unwanted expenses.  
+* [Pecker](https://github.com/woshiccm/Pecker) - CodePecker is a tool to detect unused Swift code.  
+* [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.  
+* [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom  
+* [k8s-sidecar-injector](https://github.com/tumblr/k8s-sidecar-injector) - Kubernetes sidecar injection service  
+* [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)  
+* [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets  
+* [aws-s3-virusscan](https://github.com/widdix/aws-s3-virusscan) - Free Antivirus for S3 Buckets  
+* [dns-proxy-server](https://github.com/mageddo/dns-proxy-server) - Solve your DNS hosts from your docker containers, then from your local configuration, then from internet  
+* [typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.  
+* [standalone-kubelet-tutorial](https://github.com/kelseyhightower/standalone-kubelet-tutorial) - Standalone Kubelet Tutorial  
+* [devops_chats](https://github.com/Asgoret/devops_chats) - Repository of DevOps (RUS) chats in Telegram  
+* [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.  
+* [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE  
+* [isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript  
+* [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide  
+* [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool  
+* [public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀  
+* [docker-python-rq-worker](https://github.com/geekinutah/docker-python-rq-worker) - A docker build for rq workers  
+* [onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup  
+* [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.  
+* [neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.  
+* [cursedfs](https://github.com/NieDzejkob/cursedfs) - Make a disk image formatted with both ext2 and FAT at once  
+* [tuptime](https://github.com/rfrail3/tuptime) - Report the historical and statistical real time of the system, keeping it between restarts. Like uptime command but with more interesting output.  
+* [Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.  
+* [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility  
+* [go-kubectx](https://github.com/aca/go-kubectx) - 5x-10x faster alternative to kubectx. Uses client-go.  
+* [umbriel](https://github.com/Rocketseat/umbriel) - 📪 Mail sending microservice with Node.js, TypeScript and MongoDB  
+* [jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.  
+* [klum](https://github.com/ibuildthecloud/klum) - Kubernetes Lazy User Manager  
+* [terminus-server](https://github.com/terminusdb/terminus-server) - open source model driven graph database for knowledge graph representation.  
+* [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization  
+* [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker  
+* [minibatch](https://github.com/omegaml/minibatch) - Python stream processing for humans  
+* [bitbucket-backup](https://github.com/mcclure/bitbucket-backup) - One checkout from each of my old BitBucket repos.  
+* [shlide](https://github.com/icyphox/shlide) - a slide deck presentation tool written in pure bash  
+* [ssh](https://github.com/spatie/ssh) - A lightweight package to execute commands over an SSH connection  
+* [wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.  
+* [vardbg](https://github.com/CCExtractor/vardbg) - A simple Python debugger and profiler that generates animated visualizations of program flow, useful for algorithm learning.  
+* [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers  
+* [kubestone](https://github.com/xridge/kubestone) - Performance benchmarks for Kubernetes  
+* [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check This Repo I created. If you like it then use it  
+* [Todos](https://github.com/davidfowl/Todos) - Various todo list backend API implementations  
+* [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet  
+* [sshportal](https://github.com/moul/sshportal) - 🎩 simple, fun and transparent SSH (and telnet) bastion server  
+* [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts  
+* [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals  
+* [Introduction-to-Python](https://github.com/soumyadip007/Introduction-to-Python) - Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant white space. (This repository contains Python 3 Code)  
+* [diagrams](https://github.com/mingrammer/diagrams) - 🎨 Diagram as Code for prototyping cloud system architectures  
+* [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh  
+* [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.  
+* [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker  
+* [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting  
+* [updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.  
+* [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application  
+* [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.  
+* [wormhole](https://github.com/gravitational/wormhole) - Wireguard based overlay network CNI plugin for kubernetes  
+* [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go  
+* [battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set an animated battery as desktop wallpaper.  
+* [heroicons](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.  
+* [translate-shell](https://github.com/soimort/translate-shell) - 💬 Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.  
+* [insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform  
+* [arkade](https://github.com/alexellis/arkade) - Kubernetes apps, the easy way 😎  
+* [lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.  
+* [iredis](https://github.com/laixintao/iredis/) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.  
+* [logging-operator](https://github.com/banzaicloud/logging-operator) - Logging operator for Kubernetes based on Fluentd and Fluent-bit  
+* [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr  
+* [faux-code-generator](https://github.com/knutsynstad/faux-code-generator) - Turn real code into faux code.  
+* [toggldesktop](https://github.com/toggl/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux  
+* [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands  
+* [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions  
+* [monitoror](https://github.com/monitoror/monitoror/) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.  
+* [rtty](https://github.com/zhaojh329/rtty) - Access your device's terminal from anywhere via the web.  
+* [pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest plugin for analyzing resource usage during test sessions  
+* [rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React  
+* [SSHCenter](https://github.com/AsenOsen/SSHCenter) - Simple SSH users management tool  
+* [omgwtfssl](https://github.com/paulczar/omgwtfssl) - SSL certificate generation for developers who don't TLS good  
+* [JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash  
