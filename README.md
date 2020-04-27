@@ -400,3 +400,40 @@
 * [SSHCenter](https://github.com/AsenOsen/SSHCenter) - Simple SSH users management tool  
 * [omgwtfssl](https://github.com/paulczar/omgwtfssl) - SSL certificate generation for developers who don't TLS good  
 * [JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash  
+* [terminus-server](https://github.com/terminusdb/terminus-server) - open source model driven graph database for knowledge graph representation.  
+* [](https://github.com/rupa/z/) - z - jump around  
+* [cli](https://github.com/cli/cli) - GitHub’s official command line tool  
+* [lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.  
+* [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers  
+* [bottlerocket-update-operator](https://github.com/bottlerocket-os/bottlerocket-update-operator) - A Kubernetes operator for automated updates to Bottlerocket  
+* [bottlerocket-admin-container](https://github.com/bottlerocket-os/bottlerocket-admin-container) - A container for admin access to Bottlerocket  
+* [bottlerocket-control-container](https://github.com/bottlerocket-os/bottlerocket-control-container) - A container for remote control of Bottlerocket  
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 📚 Freely available programming books  
+* [](https://github.com/alerta/alerta/) - Alerta monitoring system  
+* [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.  
+* [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.  
+* [helmfile-starter-kit](https://github.com/paulczar/helmfile-starter-kit) - Starter kit showing an opinionated helmfile workflow  
+* [jqed](https://github.com/Wazzaps/jqed) - json interactive stream editor (jq + up) - for Linux and MacOS  
+* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers  
+* [gifcap](https://github.com/joaomoreno/gifcap) - Capture your screen to a GIF in your browser  
+* [kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens  
+* [kubevious](https://github.com/kubevious/kubevious) - Kubevious project, application centric Kubernetes UI  
+* [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯  
+* [curlify](https://github.com/ofw/curlify) - A library to convert python requests request object to curl command.  
+* [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation  
+* [awesome-maps](https://github.com/simsieg/awesome-maps) - 🗺A collection of great online maps  
+* [falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅  
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)  
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 📚 Freely available programming books  
+* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.  
+* [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates  
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.  
+* [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.  
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page  
+* [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) - Python script to download subtitles for your movies.  
+* [verify-json](https://github.com/yusufnb/verify-json) - verify-json  
+* [vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure Vault for secrets, tokens, keys, passwords, and more. Automated deployment with Terraform on AWS. Configurable options for security and scalability. Usable with any applications and services hosted anywhere.  
+* [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.  
+* [](https://github.com/kvaps/dnsmasq-controller/) - Run DNS- and DHCP-server inside Kubernetes cluster  
+* [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor  
+* [](https://github.com/SoptikHa2/desed/) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.  
