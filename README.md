@@ -437,3 +437,75 @@
 * [dnsmasq-controller](https://github.com/kvaps/dnsmasq-controller) - Run DNS- and DHCP-server inside Kubernetes cluster  
 * [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor  
 * [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.  
+* [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk.  
+* [altbox](https://github.com/petdance/altbox) - A collection of power tools for the Linux/Unix/macOS command line.  
+* [xsv](https://github.com/BurntSushi/xsv) - xsv is a command line program for indexing, slicing, analyzing, splitting and joining CSV files.  
+* [enigma](https://github.com/archseer/enigma) - An implementation of the Erlang VM in Rust. We aim to be complete, correct and fast, in that order of importance.  
+* [x11docker](https://github.com/mviereck/x11docker) - Run GUI applications in Docker.  
+* [interactive-courses](https://github.com/Hexlet/interactive-courses) - Список небольших интерактивных курсов (игровых) по разным направлениям.  
+* [SSHHeatmap](https://github.com/meesaltena/SSHHeatmap) - Generates a heatmap of IPs that made failed SSH login attempts on linux systems, using /var/log/auth.log to get failed attempts.  
+* [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Images In Kubernetes.  
+* [shell-functools](https://github.com/sharkdp/shell-functools) - A collection of functional programming tools for the shell.  
+* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources for stock photos, web templates, CSS frameworks, UI libraries, tools and much more.  
+* [awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) - Awesome Machine Learning and AI Courses.  
+* [vscode-drawio](https://github.com/hediet/vscode-drawio) - Draw.io VS Code Integration.  
+* [learn-istio](https://github.com/askmeegs/learn-istio) - An Istio + service mesh resource list.  
+* [systemd-service-hardening](https://github.com/alegrey91/systemd-service-hardening) - This is a demonstration about the powerful of systemd.  
+* [aws-eks-best-practices](https://aws.github.io/aws-eks-best-practices) - Amazon EKS Best Practices Guide for Security.    
+* [shotlooter](https://github.com/utkusen/shotlooter) - Shotlooter tool is developed to find sensitive data inside the screenshots which are uploaded to https://prnt.sc/ (via the LightShot software) by applying OCR and image processing methods.  
+* [rdiffweb](https://gitlab.com/ikus-soft/rdiffweb) - Rdiffweb is a web interface for browsing and restoring from rdiff-backup repositories.   
+* [great_expectations](https://github.com/great-expectations/great_expectations) - Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.  
+* [snakeware](https://github.com/joshiemoore/snakeware) - snakeware is a free Linux distro with a Python userspace inspired by the Commodore 64. You are booted directly into a Python interpreter, which you can use to do whatever you want with your computer.  
+* [wifi-card](https://github.com/bndw/wifi-card) - Print a simple card with your WiFi login details. Tape it to the fridge, keep it in your wallet, etc.  
+* [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker container! Run near native OSX-KVM in Docker! X11 Forwarding!  
+* [statusfy](https://github.com/juliomrqz/statusfy) - Statusfy is a Status Page System, easy to use and completely Open Source. You can easily create a fast System, Static Generated, and easily deploy it to a variety of hosting services.  
+* [docker_gc](https://github.com/pdacity/docker_gc) - Garbage collector for Docker Swarm.  
+* [nodeset](https://github.com/kube-node/nodeset) - kube-node is a minimalistic API which enables Kubernetes to manage its nodes by itself.  
+* [ngxtop](https://github.com/lebinh/ngxtop) - ngxtop - real-time metrics for nginx server (and others).  
+* [hardcodes](https://github.com/s0md3v/hardcodes) - hardcodes is a utility for searching strings hardcoded by developers in programs.  
+* [whatfiles](https://github.com/spieglt/whatfiles) - Whatfiles is a Linux utility that logs what files another program reads/writes/creates/deletes on your system.  
+* [vpnify](https://github.com/laserbat/vpnify) - This tool can be used to transparently route traffic of certain programs through VPN, while keeping the rest of it routed normally. It is protocol-agnostic and can work with any VPN software.  
+* [sncr](https://github.com/semiismaili/sncr) - a synchronization shell script.  
+* [music-grid](https://github.com/irshadshalu/music-grid) - This is a simple music grid web app in which you can tap on cells to create music.  
+* [installimage](https://github.com/hetzneronline/installimage) - Hetzner installimage scripts.  
+* [reflex](https://github.com/reflexjs/reflex) - Reflex - Supercharge your Gatsby sites.  
+* [nginx-ui](https://github.com/schenkd/nginx-ui) - UI for Nginx.  
+* [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.  
+* [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  
+* [aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash. Tiny alternative to ansible / chef / puppet / etc.  
+* [btfs](https://github.com/johang/btfs) - With BTFS, you can mount any .torrent file or magnet link and then use it as any read-only directory in your file tree.  
+* [flask-bootstrap](https://github.com/esbullington/flask-bootstrap) - Flask-Bootstrap is an Flask app template for users to clone and customize as desired, as opposed to a Flask extension that you can install and use in your existing application.  
+* [flask-boilerplate](https://github.com/realpython/flask-boilerplate) -  This Flask application framework is pre-configured with Flask-SQLAlchemy, Flask-WTF, Fabric, Coverage, and the Bootstrap frontend (among others).  
+* [micropress](https://github.com/glushchenko/micropress) - Micropress – Python blog generator for hackers.  
+* [homer](https://github.com/bastienwirtz/homer) - A dead simple static HOMepage for your servER to keep your services on hand, from a simple `yaml` configuration file.  
+* [selinux-notebook](https://github.com/SELinuxProject/selinux-notebook/blob/main/src/toc.md) - SELInux notebook.  
+* [icdiff](https://github.com/jeffkaufman/icdiff) - Improved colored diff.  
+* [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers.  
+* [porter](https://github.com/kubesphere/porter) - Porter is an open source load balancer designed for bare metal Kubernetes clusters.  
+* [cilantropy](https://github.com/foozzi/cilantropy) - Cilantropy is a Python Package Manager interface created to provide an "easy-to-use" visual and also a command-line interface for Pythonistas.  
+* [uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences.  
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.  
+* [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - My notes on NGINX administration basics, tips & tricks, caveats, and gotchas.   
+* [authelia](https://github.com/authelia/authelia) - Authelia is an open-source authentication and authorization server providing 2-factor authentication and single sign-on (SSO) for your applications via a web portal.  
+* [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor.  
+* [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - A one-click script that installs a remote desktop environment on a Linux server with browser/VNC access.  
+* [tiper-js](https://github.com/carlelieser/tiper-js) - A small library for creating typing animations.  
+* [learn-python](https://github.com/KhoaDauTay/learn-python) - The Complete Python Masterclass: Learn Python From Scratch - July 2020.  
+* [shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell.  
+* [monstache](https://github.com/rwynn/monstache) - a go daemon that syncs mongodb to elasticsearch in realtime.  
+* [MagneticButtons](https://github.com/codrops/MagneticButtons) - A small set of magnetic buttons with some fun hover animations. Inspired by the button animation seen on Cuberto.  
+* [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second.  
+* [act](https://github.com/nektos/act) - Run your GitHub Actions locally!  
+* [python-for-data-science](https://github.com/blobcity/python-for-data-science) - A collection of Jupyter Notebooks designed to learn Python for Data Science.  
+* [archivy](https://github.com/Uzay-G/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.  
+* [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams with a hand-drawn feel.  
+* [credential-digger](https://github.com/SAP/credential-digger) - Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc), filtering the false positive data through machine learning models.  
+* [stringlifier](https://github.com/adobe/stringlifier) - String-classifier - is a python module for detecting random string and hashes text/code.  
+* [kopf](https://github.com/nolar/kopf) - Kopf —Kubernetes Operator Pythonic Framework— is a framework and a library to make Kubernetes operators development easier, just in a few lines of Python code.  
+* [awesome-vite](https://github.com/vitejs/awesome-vite) - A curated list of awesome things related to Vite.js  
+* [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.  
+* [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) - This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.  
+* [volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) - Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins.  
+* [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learn Vim (the Smart Way) is a book to learn the good parts of Vim.  
+* [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Create a branded static site from a set of Markdown files to host the documentation of your Open Source or commercial project – customizable, searchable, mobile-friendly, 40+ languages. Set up in 5 minutes.  
+* [remember](https://github.com/manikandanraji/remember) - Remember is an notetaking application that allows you to take notes by including text, images, videos, links, lists, checkboxes and support for code snippets, file attachments can be expected in the near future.  
