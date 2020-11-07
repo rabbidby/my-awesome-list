@@ -509,3 +509,14 @@
 * [Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learn Vim (the Smart Way) is a book to learn the good parts of Vim.  
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Create a branded static site from a set of Markdown files to host the documentation of your Open Source or commercial project – customizable, searchable, mobile-friendly, 40+ languages. Set up in 5 minutes.  
 * [remember](https://github.com/manikandanraji/remember) - Remember is an notetaking application that allows you to take notes by including text, images, videos, links, lists, checkboxes and support for code snippets, file attachments can be expected in the near future.  
+* [webify](https://github.com/beefsack/webify) - Turn functions and commands into web services.  
+* [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.  
+* [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.  
+* [awesome-devsecops-russia
+](https://github.com/Swordfish-Security/awesome-devsecops-russia) - Полная обновляемая подборка материалов по безопасной разработке, DevSecOps и SSDLC на русском языке.  
+* [shmig](https://github.com/mbucc/shmig) - A database migration tool written in BASH consisting of just one file.  
+* [sops](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.  
+* [kubecolor](https://github.com/dty1er/kubecolor) - Colorize your kubectl output.  
+* [upptime](https://github.com/upptime/upptime) - Upptime is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.  
+* [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.  
+* [system-checks](https://github.com/m0zgen/system-checks) - System Checker script.  
