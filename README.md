@@ -520,3 +520,13 @@
 * [upptime](https://github.com/upptime/upptime) - Upptime is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.  
 * [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.  
 * [system-checks](https://github.com/m0zgen/system-checks) - System Checker script.  
+* [asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation and geolocation lookup tool / Traceroute server  
+* [sshportal](https://github.com/moul/sshportal) - simple, fun and transparent SSH (and telnet) bastion server  
+* [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.  
+* [GHunt](https://github.com/mxrch/GHunt) - Investigate Google Accounts with emails.  
+* [crongo](https://github.com/snipem/crongo) - A stdout and stderr wrapper for logging into a single file.  
+* [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - A collection of pure POSIX sh alternatives to external processes.  
+* [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.  
+* [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates.  
+* [kubeapply](https://github.com/segmentio/kubeapply) - A lightweight tool for git-based management of Kubernetes configs.  
+* [Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier.  
