@@ -530,3 +530,45 @@
 * [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates.  
 * [kubeapply](https://github.com/segmentio/kubeapply) - A lightweight tool for git-based management of Kubernetes configs.  
 * [Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier.  
+* [chipmunk](https://github.com/esrlabs/chipmunk) - chipmunk is a fast logfile viewer that can deal with huge logfiles (>10 GB). It powers a super fast search and is supposed to be a useful tool for developers who have to analyze logfiles.  
+* [kyverno](https://github.com/kyverno/kyverno/) - Kubernetes Native Policy Management.  
+* [awesome-ML-projects-guide](https://github.com/dair-ai/awesome-ML-projects-guide) - A guide to building awesome machine learning projects.  
+* [many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.  
+* [teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection.  
+* [go-jira](https://github.com/go-jira/jira) - simple jira command line client in Go.  
+* [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes.  
+* [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management.  
+* [bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.  
+* [Kubei](https://github.com/Portshift/Kubei) - Kubei is a flexible Kubernetes runtime scanner, scanning images of worker and Kubernetes nodes providing accurate vulnerabilities assessment.  
+* [binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.  
+* [smartdump](https://github.com/BenMorel/smartdump) - Dumps selected MySQL tables together with their relationships.  
+* [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies.  
+* [illuminatio](https://github.com/inovex/illuminatio) - The kubernetes network policy validator.  
+* [wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.  
+* [clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time!  
+* [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.  
+* [proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.  
+* [gatus](https://github.com/TwinProduction/gatus) - ⛑ Gatus - Automated service health dashboard.  
+* [okie](https://github.com/yyx990803/okie) - Dead simple worker threads pool.  
+* [kubemod](https://github.com/kubemod/kubemod) - Universal Kubernetes mutating operator.  
+* [vas-quod](https://github.com/flouthoc/vas-quod) - 🚡 Minimal linux container runtime.  
+* [bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.  
+* [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy.  
+* [please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.  
+* [k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing.  
+* [Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.  
+* [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules.  
+* [helm-charts](https://github.com/flant/helm-charts) - Public Helm charts from Flant.  
+* [nuxt-build-optimisations](https://github.com/loonpwn/nuxt-build-optimisations) - Nuxt.js module to automatically make your builds faster ⚡  
+* [git-commands](https://github.com/gabrieldejesus/git-commands) - 👨🏾‍💻 The main git commands that every developer should know.  
+* [kube-dump](https://github.com/WoozyMasta/kube-dump) - Backup a Kubernetes cluster as a yaml manifest.  
+* [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.  
+* [DevOps-README.md](https://github.com/chris-short/DevOps-README.md) - What to Read to Learn More About DevOps.  
+* [kubernetesreadme.com](https://github.com/chris-short/kubernetesreadme.com) - What to read to get up to speed with Kubernetes.  
+* [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering.  
+* [direct-csi](https://github.com/minio/direct-csi) - Container Storage Interface (CSI) driver for direct attached storage.  
+* [knative-kind](https://github.com/csantanapr/knative-kind) - Knative on Kind (KonK).  
+* [grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync.  
+* [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.  
+* [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.  
+* [cproxy](https://github.com/NOBLES5E/cproxy) - Easy per application transparent proxy built on cgroup.
